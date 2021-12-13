@@ -1,0 +1,145 @@
+@import url("/Dubai-Bold.woff")
+body
+    font-size: x-large
+    font-family: 'dubai'
+    direction: rtl
+    background-color: #d3d3d3	
+    padding: 0
+    margin: 0
+
+$colorBG: #ffffff
+$colorUI: #2680eb
+$colorUIX: #2b67e1
+$colorUIM: #91c8ff
+@mixin sh()
+    box-shadow: 0 0.1px 3px 0 $colorUIM
+
+@mixin b-r()
+    border-radius: 10px
+@mixin  bg1()
+    background-color: #fff
+    background-attachment: fixed
+    background-size: cover
+button
+    border: 0
+
+nav
+    display: flex
+    top: 0
+    justify-content: space-around
+
+    .lang
+        button
+            opacity: 0.3
+            padding: 0
+        img
+            box-shadow: 5px 5px 10px #ddd
+            background-color: #fff
+            padding: 0
+            border-radius: 10px
+            width: 50px
+            margin: 10px
+
+    #logo
+        width: 40px
+        margin: -7px
+    a
+        text-decoration: none
+        color: #1a8a7e
+        &#go
+            color: #fff
+            background-color: #1a8a7e
+            padding: 10px 15px
+            margin: 11px
+            border-radius: 30px
+            text-align: center
+
+section
+    #logo
+        width: 200px
+        
+    h1
+        color: #8b0000
+        text-align: center
+        padding: 0
+        margin: 0
+
+    .links
+        display: flex
+        flex-wrap: wrap
+        justify-content: center
+        a
+            display: flex
+            flex-direction: row
+            margin: 10px
+            box-shadow: 5px 5px 10px #ddd
+            background-color: #fff
+            border-radius: 10px
+            color: #1a8a7e
+            padding: 0 10px
+            align-content: center
+            justify-content: center
+            align-items: center
+            img, svg
+                width: 30px
+                margin: 10px
+
+    a
+        text-decoration: none
+        // padding: 21px 10px
+        color: #1a8a7e
+        &#go
+            color: #fff
+            background-color: #1a8a7e
+            padding: 10px 15px
+            margin: 11px
+            border-radius: 30px
+            text-align: center
+
+.experience
+    display: flex
+    flex-direction: row
+    flex-wrap: wrap
+    justify-content: center
+    .card
+        width: 300px
+        text-align: center
+        box-shadow: 5px 5px 10px #ddd
+        background-color: #fff
+        padding: 10px
+        border-radius: 10px
+        margin: 10px
+        display: flex
+        flex-direction: column
+        justify-content: space-between
+        h3
+            margin: 0
+            display: flex
+            flex-direction: column
+            align-items: center
+            img
+                width: 50%
+        a
+            text-decoration: none
+            color: #fff
+            box-shadow: 5px 5px 10px #ddd
+            background-color: #1a8a7e
+            padding: 5px
+            border-radius: 10px
+ul
+    list-style-type: none
+    font-size: 1rem
+    display: flex
+    flex-direction: column
+    width: 100%
+    padding: 0
+    margin: 0
+.m
+    margin: 10px
+    &-a
+        margin: 0 auto
+.w
+    &-300
+        width: 300px
+.pro
+    border: 5px solid

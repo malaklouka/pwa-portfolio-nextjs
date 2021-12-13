@@ -1,0 +1,163 @@
+
+{
+    "lang": "ar",
+    "langlocale": "ar_AR",
+    "siteName": "Malak Nakaa",
+    "direction": "rtl",
+    "fullname": "Malak Nakaa",
+    "project": [
+        {
+            "url": "/images/",
+            "title": "Mon potfolio",
+            "description":"Utilisant les outils FrontEnd, ce site, totalement responsive, est mon Portfolio personnel où vous pourrez retrouver mes derniers projets, mon expérience, et mes compétences en développement web. Cela vous donne également la possibilité de me contacter."
+            ,"tags":["HTML","CSS","JavaScript","nextjs","sass","tailwind"],
+
+            "year": 2021
+        },
+        {            "image":"/images/mernn.png",
+
+            "url": "https://github.com/malaklouka/FinalProject",
+            "title": "Just Good Of Waste",
+            "description": "Une application web permet à chacun d'agir contre le gaspillage alimentaire afin de donner à chaque aliment produit une chance d'atteindre son destin : être mangé.",            "tags": ["ReactJS", "Redux", "JavaScript", "MongoDB", "NodeJs", "Express"],
+
+            "year": 2021
+        },
+        {"image":"/images/pokemon.png",
+            "url":  "https://github.com/malaklouka/pokemon_challenge",
+            "title": "Pokemon ",
+            "description":"Une interface de site Web frontale qui vous permet de créer une liste de pokémons, de rechercher des pokémons par nom, d'obtenir le maximum de pokémons et de comparer deux types de pokémons.",
+            "year": 2021
+        },
+      
+        {
+            "image":"/images/movie.png",
+
+            "url": "https://movie2021app.herokuapp.com/",
+            "title": "Movie App",
+            "description":
+            "Une interface de site Web frontale pour les films, où l'utilisateur peut rechercher des films, filtrer par classement et noms et peut ajouter un film à la liste.",            "tags":["HTML","CSS","JavaScript","ReactJS","ReactRedux","Bootstap","DOM"],
+
+            "year": 2021
+        },
+        {"image":"/images/listtodo.jfif",
+            "url": "https://github.com/malaklouka/todolist_redux",
+            "title": "To_Do list",
+            "description":
+            "Une interface de site Web frontale qui vous permet de créer, lire, mettre à jour et supprimer (CRUD) vos tâches à faire.",            "tags":["HTML","CSS","JavaScript","ReactJS","ReactRedux","Bootstap","DOM"],
+
+            "year": 2021
+        },
+        { "image":"/images/todo.png",
+            "url": "https://github.com/malaklouka/simple_todolist",
+            "title": "Simple To_Do list",
+            "description":
+            "Une interface de site Web frontale qui vous permet de créer, lire, mettre à jour et supprimer (CRUD) vos tâches à faire.",            "tags":["HTML","CSS","JavaScript","DOM"],
+            "year": 2021
+        }
+        ,
+        {
+            "image":"/images/shopcart.png",
+            "mobile url": "https://github.com/malaklouka/shopping_cart_challenge",
+            "title": "Shopping Cart ",
+            "description":
+            "Une interface de site Web frontale qui vous permet d'acheter un produit, d'ajouter un produit au panier, de calculer le prix total",            "tags": ["HTML","JavaScript","DOM","CSS"],
+            "year": 2021
+        },
+    
+        {"image":"/images/doc.png",
+            "url": "https://github.com/malaklouka/docplanner",
+            "title": "Docplanner",
+            "description": "Un clonage du site web Docplanner",
+            "tags": ["HTML","JavaScript","DOM","CSS"],
+            "year": 2021
+        },
+          
+        {"image":"/images/web.png",
+            "url": "https://github.com/malaklouka/appweb_covalisage",
+            "title": "Application web de co-valisage",
+            "description":
+            "application de covalisage web  visant à mettre en relation des voyageurs ayant un espace vide dans leurs bagages avec des expéditeurs de colis à la recherche d'un transport pas cher..",
+            "tags": ["Angular", "TypeScript", "NoSQL", "PHP"],
+            "year": 2020
+        },
+        {"image":"/images/mobile.png",
+            "url": " https://github.com/malaklouka/appionic",
+            "title": "Application mobile de co-valisage",
+            "description":
+            "application de covalisage mobile visant à mettre en relation des voyageurs ayant un espace vide dans leurs bagages avec des expéditeurs de colis à la recherche d'un transport pas cher..",
+            "tags": [ "Ionic", "Cordova","TypeScript", "NoSQL", "PHP"],
+            "year": 2020
+        }, 
+        {"image":"/images/iot.png",
+            "url": "https://github.com/malaklouka/deeplearninginmedical",
+            "demo":"https://docs.google.com/presentation/d/1Hy1V6HeJupjUk6kXuzZtZJZbuVJHODYl/edit?usp=sharing&ouid=107577507744048166005&rtpof=true&sd=true",
+            "title": "Deep Learning in medical", 
+            "description": "Une tache où nous proposons un dépistage du cancer du sein par IOT",
+            "tags":["Xml","Xsl","dtd","Azure","CSS"],
+            "year": 2020
+        }, 
+        {"image":"/images/xml.png",
+            "url": "https://github.com/malaklouka/tache_software_xml",
+            "title": "Tache software xml",
+            "description": "Une tache où nous présentons comment le deep learning aide à traiter les maladies",
+            "tags":["xml","xsl","dtd","CSS"],
+            "year": 2019
+        }, 
+        {"image":"/images/tunifid.png",
+            "url": "https://drive.google.com/file/d/0B9Q8xRymEFuCV25uOEZZZFpUNU0/view?usp=sharing&resourcekey=0-83iLumQfGH76cZR80K7PQw",
+            "title": "Tunifid : application web et mobile de gestion des cartes de fidélité",
+            "la description":
+            "Les fonctionnalités développées dans cette application sont principalement : la gestion des cartes de fidélité et des offres par la marque qui les propose aux clients, également le client gère ses cartes (ajout, suppression,..). Et la consultation des cartes et offres par l'administrateur (le administrateur consulte les cartes et offres proposées par la marque).",
+            "tags":["Angular", "Android", "PHP", "NoSQL"],
+            "year": 2017
+        }
+    ],
+    "skills": [
+        {
+            "title": "Frameworks",
+            "description": "Hadoop, Matlab, Microsoft Azure,Bootstrap, Material UI, Semantic UI, tailwind, ant UI"
+        
+        },
+        {
+            "title": "Frontend",
+            "description": "HTML,CSS,Javascript,Typescript,ES6,redux,redux toolkit, Reactjs, Nextjs, Angular,Android, ionic"
+        },
+        {
+            "title": "Back-end ",
+            "description": "NodeJs , express, MongoDB, NOSQL, postgresql, Git, Java, C++, C, JEE, PHP, Langage R"
+        }, {
+            "title": "logiciels",
+            "description": "Netbeans, Android Studio, tomcat eclipse, VS code, ERP, ODOO, virtualBox, latex, Powerpoint, word"
+        },
+        {
+            "title": "Langage de modelisation",
+            "description": " UML, Merise"
+        }, {
+            "title": "systèmes d'exploitation ",
+            "description": " Linux, Windows"
+        }, {
+            "title": "",
+            "description": "Scrum"
+        }
+    ],
+    "text": {
+        "hi": "Salut, je suis",
+        "description": "développeuse web et mobile, ayant effectué une reconversion en FullStack JS.Très motivé et responsable, afin de participer à de nouveaux défis,Je suis sûr que mon expérience sera utile.",
+        "home": "Accueil",
+        "project": "Projets",
+        "skill": "Compétences",
+        "contact": "contact",
+        "MyServices": "Mes Services",
+        "t1": "Création d'interfaces Web réactives, interactives et accessibles à l'aide de React ",
+        "frontend": "Développement Web Front-end",
+        "backend": "Développement Web Back-end",
+        "t4": "Développement de points de terminaison d'API RESTful à l'aide de Node.js ",
+        "oglink": "Visitez le site",
+        "fb": "Facebook",
+        "github": "Github",
+        "whatsapp": "Whatsapp",
+        "email": "Email",
+        "ConnectUs": "Connect with us",
+        "feature": "caractéristique"
+    }
+}

@@ -1,0 +1,111 @@
+
+{
+    "technology": {
+        "lang": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "ES6"
+        ],
+        "backend": [
+            "Node.js",
+            "Express.js",
+            "JWT"        ],
+        "frontend": [
+            "React.js",
+            "Next.js",
+            "Angular",
+            "sass"
+        ],
+        "DB": [
+            "MongoDB"
+        ],
+        "technology": [
+            "APIs"
+        ],
+        "devops": [
+            "Github"
+        ]
+    },
+    "links": {
+        "fb": "",
+        "github": "",
+        "wa": "",
+        "t": "",
+        "mail": "",
+        "1": "",
+        "2": "",
+        "3": ""
+    },
+    "ar": {
+        "name": "Malak Nakaa",
+        "experience": [
+            {
+                "title": "Frontend",
+                "description": 
+                "Concevoir et programmer des interfaces utilisateur avec ReactJs,Angular,ionic et NextJs"            },
+            {
+                "title": "Back-end NodeJs ",
+                "description": 
+                "Programmer des serveurs à l'aide de nodejs, express, MongoDB,MySQL créer et travailler avec des apis"            },
+                {
+                    "title": "Application mobile",
+                    "description": 
+         "Concevoir et programmer des interfaces utilisateur avec android et ionic"}
+        ],
+    
+        "text": {
+            "hi": "Salut, je suis",
+            "job": "développeuse web et mobile",
+            "home": "Accueil",
+            "project": "Projets",
+            "skill": "Compétences",
+            "contact": "contactez moi",
+            "MyServices": "Mes services",
+            "t1" : " Création d'interfaces réactives pour les tailles d'écran à l'aide de React ",            "frontend": "تطوير واجهات الويب",
+            "backend": "programmation du serveur Web",
+            "t4": "Développement d'un logiciel API pour serveurs Web selon les normes Web modernes à l'aide de Node.js",
+             "oglink": "visiter le site",
+            "t5": "",
+            "t6": "",
+            "t7": "",
+            "t8": "",
+            "t9": "",
+            "t": ""
+        }
+    },
+    "en": {
+        "name": "Malak Nakaa",
+        "experience": [
+            {
+                "title": "Frontend ReactJs",
+                "description": "User interface design and programming using ReactJs and NextJs"
+            },
+            {
+                "title": "Back-end NodeJs ",
+                "description": "Programming servers using nodejs, express, MongoDB, creating and working with apis"
+            },
+            {
+                "title": "Application mobile",
+                "description": "Design and program user interfaces with android and ionic"
+                }            
+        ],
+      
+        "text": {
+            "hi": "Hi, I am",
+            "job": "developer of web and mobile applications",
+            "home": "Home",
+            "project": "Project",
+            "skill": "Skills",
+            "contact": "contact",
+            "MyServices": "My Services",
+            "t1": "Creating responsive, interactive and accessible web interfaces using React ",
+            "frontend": "Front-end Web Development",
+            "backend": "Back-end Web Development",
+            "t4": "Developing RESTful APIs endpoints using Node.js ",
+            "oglink": "Visiting site",
+            "t5": "",
+            "t6": ""
+        }
+    }
+}

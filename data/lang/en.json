@@ -1,0 +1,161 @@
+{
+    "lang": "en",
+    "langlocale": "en_US",
+    "direction": "ltr",
+    "siteName": "Malak Nakaa",
+    "fullname": "Malak Nakaa",
+    "project": [
+        {
+            "url": "https://botqa.vercel.app",
+            "title": "My potfolio",
+            "description":"Using FrontEnd tools, this website , totally responsive, is my personnal Portfolio where you can find my last projects, my experience, and my skills in web developpement. It also give you the ability to contact me. ",
+            "tags":["HTML","CSS","JavaScript","nextjs","sass","tailwind"],
+
+            "year": 2021
+        },
+        {
+            "image":"/images/mernn.png",
+            "url": "https://github.com/malaklouka/FinalProject",
+            "title": "Just Good Of Waste",
+            "description": "web application enables each of us to take action against food waste in order to give every food produced an opportunity to reach its destiny: to be eaten.",
+            "tags": ["ReactJS", "Redux", "JavaScript", "MongoDB", "NodeJs", "Express"],
+
+            "year": 2021
+        },
+        {"image":"/images/pokemon.png",
+            "url": "https://github.com/malaklouka/pokemon_challenge",
+            "title": "Pokemon challenge",
+            "description":
+            "A front-end website interface that allows you to create list of pokemons, search pokemon by name, get the max of pokemons, and compare two type of pokemons.",
+            "year": 2021
+        },
+      
+        {
+            "image":"/images/movie.png",
+            "url": "https://movie2021app.herokuapp.com/",
+            "title": "Movie App",
+            "description":"A front-end website interface for movies, where the user can search for movies, filter by rating and names and can add a movie to the list.",
+            "tags":["HTML","CSS","JavaScript","ReactJS","ReactRedux","Bootstap","DOM"],
+
+            "year": 2021
+        },
+        {"image":"/images/listtodo.jfif",
+            "url": "https://github.com/malaklouka/todolist_redux",
+            "title": "To_Do list",
+            "description":"A front-end website interface that allows you to create, read, update and delete (CRUD) your to-dos.",        
+            "tags":["HTML","CSS","JavaScript","ReactJS","ReactRedux","Bootstap","DOM"],
+
+            "year": 2021
+        },
+        {"image":"/images/todo.png",
+            "url": "https://github.com/malaklouka/simple_todolist",
+            "title": "Simple To_Do list",
+            "description":"A front-end website interface that allows you to create, read, update and delete (CRUD) your to-dos.",        
+            "tags":["HTML","CSS","JavaScript","DOM"],
+            "year": 2021
+        }
+        ,
+        {"image":"/images/shopcart.png",
+            "url": "https://github.com/malaklouka/shopping_cart_challenge",
+            "title": "Shopping Cart Challenge",
+            "description":"A front-end website interface that allows you to buy product, add product to cart, calculate total price",
+            "tags": ["HTML","JavaScript","DOM","CSS"],
+            "year": 2021
+        },
+    
+        {"image":"/images/doc.png",
+            "url": "https://github.com/malaklouka/docplanner",
+            "title": "Docplanner",
+            "description":"A clonage of the site web Docplanner",
+            "tags": ["HTML","JavaScript","DOM","CSS"],
+            "year": 2021
+        },
+        {"image":"/images/web.png",
+            "url": "https://github.com/malaklouka/appweb_covalisage",
+            "title": "Web applicatin :CoVa",
+            "description":"web co-valuation application aiming to connect travelers with empty space in their luggage with parcel shippers looking for cheap transport..",
+
+            "tags": ["Angular", "TypeScript", "NoSQL", "PHP"],
+            "year": 2020
+        },
+        {"image":"/images/mobile.png",
+            "url": " https://github.com/malaklouka/appionic",
+            "title": " Mobile applicatin CoVa",
+            "description":"mobile co-valuation application aiming to connect travelers with empty space in their luggage with parcel shippers looking for cheap transport..",
+
+            "tags": [ "Ionic", "Cordova","TypeScript", "NoSQL", "PHP"],
+            "year": 2020
+        }, 
+        {"image":"/images/iot.png",
+            "url": "https://github.com/malaklouka/deeplearninginmedical",
+            "demo":"https://docs.google.com/presentation/d/1Hy1V6HeJupjUk6kXuzZtZJZbuVJHODYl/edit?usp=sharing&ouid=107577507744048166005&rtpof=true&sd=true",
+            "title": "Deeplearning in medical",
+            "description":"A tache where we propose a breast cancer detecter using IOT",
+            "tags":["Xml","Xsl","dtd","Azure","CSS"],
+            "year": 2020
+        }, 
+        {"image":"/images/xml.png",
+            "url": "https://github.com/malaklouka/tache_software_xml",
+            "title": "Tache software xml",
+            "description":"A tache where we present how deep learning helps to treat diseases",
+            "tags":["xml","xsl","dtd","CSS"],
+            "year": 2019
+        }, 
+        {"image":"/images/tunifid.png",
+            "url": "https://drive.google.com/file/d/0B9Q8xRymEFuCV25uOEZZZFpUNU0/view?usp=sharing&resourcekey=0-83iLumQfGH76cZR80K7PQw",
+            "title": "Tunifid: web and mobile application for managing loyalty cards",
+            "description":
+            "The functionalities developed in this application are mainly: card management loyalty and offers by the brand that offers them to customers, also the customer manages his cards (adding, suppressure,..). And consultation of cards and offers by the administrator (the administrator consults the cards and offers offered by the brand).",
+            "tags":["Angular", "Android", "PHP", "NoSQL"],
+            "year": 2017
+        }
+    ],
+    "skills": [
+        {
+            "title": "Frameworks",
+            "description": "Hadoop, Matlab, Microsoft Azure,Bootstrap, Material UI, Semantic UI, tailwind, ant UI"
+        
+        },
+        {
+            "title": "Frontend",
+            "description": "HTML,CSS,Javascript,Typescript,ES6,redux,redux toolkit, Reactjs, Nextjs, Angular,Android, ionic"
+        },
+        {
+            "title": "Back-end ",
+            "description": "NodeJs , express, MongoDB, NOSQL, postgresql, Git, Java, C++, C, JEE, PHP, Langage R"
+        }, {
+            "title": "software",
+            "description": "Netbeans, Android Studio, tomcat eclipse, VS code, ERP, ODOO, virtualBox, latex, Powerpoint, word"
+        },
+        {
+            "title": "modeling language",
+            "description": " UML, Merise"
+        }, {
+            "title": "operating system",
+            "description": " Linux, Windows"
+        }, {
+            "title": "",
+            "description": "Scrum"
+        }
+    ],
+    "text": {
+        "hi": "Hi, I am",
+        "description": "web and mobile, having made a retraining in FullStack JS Web Developer.Highly motivated and responsible, in order to participate in new challenge.I am sure that my experience will be useful.",
+        "home": "Home",
+        "project": "Project",
+        "skill": "Skills",
+        "contact": "contact",
+        "MyServices": "My Services",
+        "t1": "Creating responsive, interactive and accessible web interfaces using React ",
+        "frontend": "Front-end Web Development",
+        "backend": "Back-end Web Development",
+        "t4": "Developing RESTful APIs endpoints using Node.js ",
+        "oglink": "Visiting site",
+        "fb": "Facebook",
+        "github": "Github",
+        "whatsapp": "Whatsapp",
+        "email": "Email",
+        "ConnectUs": "Connect with us",
+        "feature": "feature"
+    }
+}
